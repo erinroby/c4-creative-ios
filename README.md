@@ -1,2 +1,2 @@
-# c4-creative-ios
+# C4 Basics
 Seattle Xcoders C4 Talk
