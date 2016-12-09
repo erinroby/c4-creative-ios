@@ -8,7 +8,7 @@ Before I became a software engineer, I was a fashion designer.
 ![SAM Show](https://github.com/erinroby/c4-creative-ios/blob/master/images/Fashion.gif "Fashion Show")  
 _2012 Erin Roby collection presented by Seattle magazine and the Seattle Art Museum_  
 
-What I learned during that time in my life is that a **combined technical and creative practice is powerful**. I drafted and developed my patterns and tailored coats in addition to designing them. For me, taking what is essentially a 2D surface (fabric) and fitting it to a 3D form that is complex and dynamic (human body) was an interesting problem. Writing creative code allows me to continue my multi-disciplinary approach.    
+What I learned during that time in my life is that a **combined technical and creative practice is powerful**. I drafted and developed my patterns and tailored coats in addition to designing them. For me, taking what is essentially a 2D surface (fabric) and fitting it to a 3D form that is complex and dynamic (human body) was an interesting problem. Writing creative code allows me to continue this multi-disciplinary approach and take in a new direction.    
 
 ![Fashion](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.03.jpeg "Fashion")  
 
