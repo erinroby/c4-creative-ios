@@ -24,7 +24,7 @@ Our fictitious Pineapple Supply Co. project manager has asked us to create a loa
 _Demonstration of how easy and amazing it is to use C4 Studio_  
 
 ##We did it!
-![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Simulator.gif "Pineapple Animation")
+![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Simulator.gif "Pineapple Animation")  
 _Demonstration of how easy and amazing it is to use C4 Studio_
 ![Pineapple Animation Two](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")  
 ##It was simple! It was fun! The code was generated for us!
