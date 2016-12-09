@@ -12,7 +12,7 @@ What I learned during that time in my life is that a **combined technical and cr
 
 ![Fashion](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.03.jpeg "Fashion")  
 
-A second transferable skill I gained as a fashion designer was the ability to recognize trends, which is an exercise in **visual pattern recognition**. For this talk, I demonstrate how to take inspiration from a pattern (in this case a "pineapple trend"), and apply it to a creative project (a fictitious commission from [Pineapple Supply Co.](http://pineapples.io/)) using [C4 Studio](http://c4studio.co/) Alpha.
+Another skill I gained as a fashion designer was the ability to recognize trends, which is **an exercise in visual pattern recognition**. For this talk, I demonstrate how to take inspiration from a pattern (in this case a "pineapple trend"), and apply it to a creative project (a fictitious commission from [Pineapple Supply Co.](http://pineapples.io/)) using [C4 Studio](http://c4studio.co/) Alpha.
 
 ![iOS Connections](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.06.jpeg "iOS Pineapple")
 
