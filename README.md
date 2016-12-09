@@ -16,9 +16,21 @@ A second transferable skill I gained as a fashion designer was the ability to re
 
 ![iOS Connections](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.06.jpeg "iOS Pineapple")
 
-![Pineapple Supply Co. Mockup](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.09.jpeg "Pineapple Supply Company Mockup")
+![Pineapple Supply Co. Mockup](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.09.jpeg "Pineapple Supply Company Mockup")  
+
+Our fictitious Pineapple Supply Co. project manager has asked us to create a loading screen animation of the company logo for their new native iOS pineapple stock photo application. Let's use C4 Studio!
+
 ![Pineapple Animation Demo](https://github.com/erinroby/c4-creative-ios/blob/master/images/Demo.gif "Pineapple Animation Demo")
+_demonstrating how easy and amazing it is to use C4 Studio_  
+
+###We did it!
 ![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")
+###It took no time at all!
+###The code was generated for us!
+
+![Pineapple Wow](https://github.com/erinroby/c4-creative-ios/blob/master/images/Wow.gif "wow Animation")
+
+Hope everyone enjoyed the talk!
 
 <img src="https://github.com/erinroby/c4-creative-ios/blob/master/images/C4SLogo.png" width="200">  
 > Import Sketch Designs. Animate in C4 Studio. Export Dev-ready Code.
