@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		Animation_swift_BuildFile /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = Animation_swift_FileReference /* Animation.swift */; };
+		AppDelegate_swift_BuildFile /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AppDelegate_swift_FileReference /* AppDelegate.swift */; };
+		Assets_xcassets_BuildFile /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = Assets_xcassets_FileReference /* Assets.xcassets */; };
+		BeginViewController_swift_BuildFile /* BeginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BeginViewController_swift_FileReference /* BeginViewController.swift */; };
+		BeginView_swift_BuildFile /* BeginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BeginView_swift_FileReference /* BeginView.swift */; };
+		CGPath_SVG_swift_BuildFile /* CGPath+SVG.swift in Sources */ = {isa = PBXBuildFile; fileRef = CGPath_SVG_swift_FileReference /* CGPath+SVG.swift */; };
+		LaunchScreen_storyboard_BuildFile /* Base in Resources */ = {isa = PBXBuildFile; fileRef = LaunchScreen_storyboard_FileReference /* Base */; };
+		Main_storyboard_BuildFile /* Base in Resources */ = {isa = PBXBuildFile; fileRef = Main_storyboard_FileReference /* Base */; };
+		ShapeView_swift_BuildFile /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ShapeView_swift_FileReference /* ShapeView.swift */; };
+		Transition1_swift_BuildFile /* Transition1.swift in Sources */ = {isa = PBXBuildFile; fileRef = Transition1_swift_FileReference /* Transition1.swift */; };
+		Transition_swift_BuildFile /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = Transition_swift_FileReference /* Transition.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		Animation_swift_FileReference /* Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		AppDelegate_swift_FileReference /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		Assets_xcassets_FileReference /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BeginViewController_swift_FileReference /* BeginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeginViewController.swift; sourceTree = "<group>"; };
+		BeginView_swift_FileReference /* BeginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeginView.swift; sourceTree = "<group>"; };
+		CGPath_SVG_swift_FileReference /* CGPath+SVG.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CGPath+SVG.swift"; sourceTree = "<group>"; };
+		Info_plist_FileReference /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		LaunchScreen_storyboard_FileReference /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		Main_storyboard_FileReference /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ShapeView_swift_FileReference /* ShapeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		Transition1_swift_FileReference /* Transition1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transition1.swift; sourceTree = "<group>"; };
+		Transition_swift_FileReference /* Transition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
+		name_app_FileReference /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		Frameworks_BuildPhase /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C4StudioCommon_Group /* C4StudioCommon */ = {
+			isa = PBXGroup;
+			children = (
+				Animation_swift_FileReference /* Animation.swift */,
+				CGPath_SVG_swift_FileReference /* CGPath+SVG.swift */,
+				ShapeView_swift_FileReference /* ShapeView.swift */,
+				Transition_swift_FileReference /* Transition.swift */,
+			);
+			path = C4StudioCommon;
+			sourceTree = "<group>";
+		};
+		Main_Group /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				Resources_Group /* Resources */,
+				Sources_Group /* Sources */,
+				Products_Group /* Products */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		Products_Group /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				name_app_FileReference /* Demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		Resources_Group /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				Info_plist_FileReference /* Info.plist */,
+				Assets_xcassets_FileReference /* Assets.xcassets */,
+				Main_storyboard_Group /* Main.storyboard */,
+				LaunchScreen_storyboard_Group /* LaunchScreen.storyboard */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		Sources_Group /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AppDelegate_swift_FileReference /* AppDelegate.swift */,
+				C4StudioCommon_Group /* C4StudioCommon */,
+				BeginView_swift_FileReference /* BeginView.swift */,
+				Transition1_swift_FileReference /* Transition1.swift */,
+				BeginViewController_swift_FileReference /* BeginViewController.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		Demo_Target /* Demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = Demo_Target_ConfigurationList /* Build configuration list for PBXNativeTarget "Demo" */;
+			buildPhases = (
+				Sources_BuildPhase /* Sources */,
+				Frameworks_BuildPhase /* Frameworks */,
+				Resources_BuildPhase /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Demo;
+			productName = Demo;
+			productReference = name_app_FileReference /* Demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		Demo_Project /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 9999;
+				ORGANIZATIONNAME = ErinRoby;
+				TargetAttributes = {
+					Demo_Target = {
+						DevelopmentTeam = 4A98EB9QY9;
+						LastSwiftMigration = 0800;
+					};
+				};
+			};
+			buildConfigurationList = Demo_Project_ConfigurationList /* Build configuration list for PBXProject "Demo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = Main_Group /* Main */;
+			productRefGroup = Products_Group /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				Demo_Target /* Demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		Resources_BuildPhase /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				Assets_xcassets_BuildFile /* Assets.xcassets in Resources */,
+				Main_storyboard_BuildFile /* Base in Resources */,
+				LaunchScreen_storyboard_BuildFile /* Base in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		Sources_BuildPhase /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AppDelegate_swift_BuildFile /* AppDelegate.swift in Sources */,
+				Animation_swift_BuildFile /* Animation.swift in Sources */,
+				CGPath_SVG_swift_BuildFile /* CGPath+SVG.swift in Sources */,
+				ShapeView_swift_BuildFile /* ShapeView.swift in Sources */,
+				Transition_swift_BuildFile /* Transition.swift in Sources */,
+				BeginView_swift_BuildFile /* BeginView.swift in Sources */,
+				Transition1_swift_BuildFile /* Transition1.swift in Sources */,
+				BeginViewController_swift_BuildFile /* BeginViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		LaunchScreen_storyboard_Group /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				LaunchScreen_storyboard_FileReference /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		Main_storyboard_Group /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				Main_storyboard_FileReference /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		Debug_Project_Debug_BuildConfiguration /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		Demo_Target_Debug_BuildConfiguration /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4A98EB9QY9;
+				INFOPLIST_FILE = "$(SRCROOT)/Resources/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ErinRoby.Demo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
+			};
+			name = Debug;
+		};
+		Demo_Target_Release_BuildConfiguration /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4A98EB9QY9;
+				INFOPLIST_FILE = "$(SRCROOT)/Resources/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ErinRoby.Demo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
+			};
+			name = Release;
+		};
+		Release_Project_Release_BuildConfiguration /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		Demo_Project_ConfigurationList /* Build configuration list for PBXProject "Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				Debug_Project_Debug_BuildConfiguration /* Debug */,
+				Release_Project_Release_BuildConfiguration /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		Demo_Target_ConfigurationList /* Build configuration list for PBXNativeTarget "Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				Demo_Target_Debug_BuildConfiguration /* Debug */,
+				Demo_Target_Release_BuildConfiguration /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = Demo_Project /* Project object */;
+}
