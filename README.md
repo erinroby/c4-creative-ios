@@ -9,16 +9,14 @@
 
 ![SAM Show](https://github.com/erinroby/c4-creative-ios/blob/master/images/Fashion.gif "Fashion Show")
 
-![Pineapple Supply Co. Logo](https://github.com/erinroby/c4-creative-ios/blob/master/images/pineappleSupplyCo..jpg "Pineapple Supply Co. Logo")
-
 ![Fashion](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.03.jpeg "Fashion")
 
 ![iOS Connections](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.06.jpeg "iOS Pineapple")
 
 ![Pineapple Supply Co.](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.08.jpeg "Pineapple Supply Company")
 
-![Pineapple Supply Co. Mockup](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.09.jpeg "Pineapple Supply Company Mockup")
-
-![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")
+![Pineapple Supply Co. Mockup](https://github.com/erinroby/c4-creative-ios/blob/master/images/XCodersSlides.09.jpeg "Pineapple Supply Company Mockup") ![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")
 
 ![Pineapple Animation Demo](https://github.com/erinroby/c4-creative-ios/blob/master/images/Demo.gif "Pineapple Animation Demo")
+
+[Read more](https://blog.prototypr.io/c4-studio-alpha-release-5beb24e2ecbb#.doere7o2e) about C4 Studio Alpha.
