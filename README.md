@@ -25,9 +25,10 @@ _Demonstration of how easy and amazing it is to use C4 Studio_
 
 ##We did it!
 ![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Simulator.gif "Pineapple Animation")  
+_Demonstration of how easy and amazing it is to use C4 Studio_  
 
 ![Pineapple Animation Two](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")  
-_Demonstration of how easy and amazing it is to use C4 Studio_    
+
 ##It was simple! It was fun! The code was generated for us!
 ![Pineapple Wow](https://github.com/erinroby/c4-creative-ios/blob/master/images/Wow.gif "wow Animation")
 
