@@ -21,10 +21,11 @@ A second transferable skill I gained as a fashion designer was the ability to re
 Our fictitious Pineapple Supply Co. project manager has asked us to create a loading screen animation of the company logo for their new native iOS pineapple stock photo application. **Let's use C4 Studio!**
 
 ![Pineapple Animation Demo](https://github.com/erinroby/c4-creative-ios/blob/master/images/Demo.gif "Pineapple Animation Demo")  
-_demonstrating how easy and amazing it is to use C4 Studio_  
+_Demonstration of how easy and amazing it is to use C4 Studio_  
 
 ##We did it!
 ![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Simulator.gif "Pineapple Animation")
+_Demonstration of how easy and amazing it is to use C4 Studio_
 ![Pineapple Animation Two](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")  
 ##It was simple! It was fun! The code was generated for us!
 ![Pineapple Wow](https://github.com/erinroby/c4-creative-ios/blob/master/images/Wow.gif "wow Animation")
