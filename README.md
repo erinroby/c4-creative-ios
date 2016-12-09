@@ -26,10 +26,10 @@ _demonstrating how easy and amazing it is to use C4 Studio_
 ##We did it!
 ![Pineapple Animation](https://github.com/erinroby/c4-creative-ios/blob/master/images/Simulator.gif "Pineapple Animation")
 ![Pineapple Animation Two](https://github.com/erinroby/c4-creative-ios/blob/master/images/Pineapple.gif "Pineapple Animation")  
-
+##It was simple! It was fun! The code was generated for us!
 ![Pineapple Wow](https://github.com/erinroby/c4-creative-ios/blob/master/images/Wow.gif "wow Animation")
 
-####Hope everyone enjoyed the talk! Install [C4](http://www.c4ios.com/) and get on those tutorials while we wait for the Beta.
+##Hope everyone enjoyed the talk! Install [C4](http://www.c4ios.com/) and get on those tutorials while we wait for the Beta.
 
 <img src="https://github.com/erinroby/c4-creative-ios/blob/master/images/C4SLogo.png" width="200">  
 > Import Sketch Designs. Animate in C4 Studio. Export Dev-ready Code.
