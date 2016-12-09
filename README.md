@@ -3,7 +3,7 @@
 
 ####Motivation:
 
-![C4 Studio Logo](https://github.com/erinroby/c4-creative-ios/blob/master/images/C4SLogo.png =100x)
+![C4 Studio Logo](https://github.com/erinroby/c4-creative-ios/blob/master/images/C4SLogo.png =100x100)
 [C4 Studio](http://c4studio.co/)
 > Import Sketch Designs. Animate in C4 Studio. Export Dev-ready Code.
 
